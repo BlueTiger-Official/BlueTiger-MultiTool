@@ -1,7 +1,6 @@
 <img align="center" src="Settings\config\Nkrz.png" width="100%">
 
 <p align="center">
-  [<img src="https://img.shields.io/github/v/release/BlueTiger-Official/BlueTiger-MultiTool?label=Version&color=091af9&version=1.0" alt="Version Badge">](https://img.shields.io/github/v/release/BlueTiger-Official/BlueTiger-MultiTool?label=Version&color=091af9&version=1})
   <img src="https://img.shields.io/github/stars/BlueTiger-Official/BlueTiger-MultiTool?style=flat&label=Stars&color=091af9">
   <img src="https://img.shields.io/github/repo-size/BlueTiger-Official/BlueTiger-MultiTool?label=Size&color=091af9">
   <img src="https://img.shields.io/github/languages/top/BlueTiger-Official/BlueTiger-MultiTool?color=091af9">
