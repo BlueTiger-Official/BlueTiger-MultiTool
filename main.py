@@ -109,6 +109,7 @@ menu4 = fade.water(center_text(f"""
 │  49: {format_option('49')}                                            │
 │  50: {format_option('50')}                                            │
 │  51: {format_option('51')}                                            │
+│  59: {format_option('59')}                                            │
 ├───────────────────────────────────────────────────────────────────────┤
 │  [N] Next Menu       [B] Previous Menu            [P] Paid Tools      │
 ╰───────────────────────────────────────────────────────────────────────╯
