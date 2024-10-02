@@ -60,7 +60,8 @@ options = {
     '55': {"name": "Webhook Menu", "script": "webhook_menu.py"},
     '56': {"name": "TikTok", "script": "tiktok_brute.py"},
     '57': {"name": "Instagram", "script": "instagram.py"},
-    '58': {"name": "SnapChat", "script": "snapchat.py"}
+    '58': {"name": "SnapChat", "script": "snapchat.py"},
+    '58': {"name": "Spoofer", "script": "spoofer.py"}
     
 }
 
