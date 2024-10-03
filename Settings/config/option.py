@@ -61,7 +61,8 @@ options = {
     '56': {"name": "TikTok", "script": "tiktok_brute.py"},
     '57': {"name": "Instagram", "script": "instagram.py"},
     '58': {"name": "SnapChat", "script": "snapchat.py"},
-    '59': {"name": "Spoofer", "script": "spoofer.py"}
+    '59': {"name": "Spoofer", "script": "spoofer.py"},
+    '60': {"name": "Spoofer", "script": "spoof_tkinter.py"}
     
 }
 
