@@ -12,20 +12,20 @@ def format_option(script_name):
 
 def display_menu():
     scripts = {
-        '01': 'EyedownTool/anticheat_uninstaller.py',
-        '02': 'EyedownTool/app_uninstaller_optimizer.py',
-        '03': 'EyedownTool/cleaner.py',
-        '04': 'EyedownTool/data_collection.py',
-        '05': 'EyedownTool/discord_inject_remover.py',
-        '06': 'EyedownTool/disk_cleaner.py',
-        '07': 'EyedownTool/file_decryption.py',
-        '08': 'EyedownTool/file_encryption.py',
-        '09': 'EyedownTool/full_confidentiality.py',
-        '10': 'EyedownTool/registery_cleaner.py',
-        '11': 'EyedownTool/system_security.py',
-        '12': 'EyedownTool/telemetry_remover.py',
-        '13': 'EyedownTool/website_unlocker.py',
-        '14': 'EyedownTool/win_defender_uninstall.py',
+        '01': 'Settings/Program/EyedownTool/anticheat_uninstaller.py',
+        '02': 'Settings/Program/EyedownTool/app_uninstaller_optimizer.py',
+        '03': 'Settings/Program/EyedownTool/cleaner.py',
+        '04': 'Settings/Program/EyedownTool/data_collection.py',
+        '05': 'Settings/Program/EyedownTool/discord_inject_remover.py',
+        '06': 'Settings/Program/EyedownTool/disk_cleaner.py',
+        '07': 'Settings/Program/EyedownTool/file_decryption.py',
+        '08': 'Settings/Program/EyedownTool/file_encryption.py',
+        '09': 'Settings/Program/EyedownTool/full_confidentiality.py',
+        '10': 'Settings/Program/EyedownTool/registery_cleaner.py',
+        '11': 'Settings/Program/EyedownTool/system_security.py',
+        '12': 'Settings/Program/EyedownTool/telemetry_remover.py',
+        '13': 'Settings/Program/EyedownTool/website_unlocker.py',
+        '14': 'Settings/Program/EyedownTool/win_defender_uninstall.py',
     }
 
     print(f"{blue}Eye Down Tool - Menu")
@@ -36,20 +36,20 @@ def display_menu():
 
 def execute_script(option):
     scripts = {
-        '01': 'EyedownTool/anticheat_uninstaller.py',
-        '02': 'EyedownTool/app_uninstaller_optimizer.py',
-        '03': 'EyedownTool/cleaner.py',
-        '04': 'EyedownTool/data_collection.py',
-        '05': 'EyedownTool/discord_inject_remover.py',
-        '06': 'EyedownTool/disk_cleaner.py',
-        '07': 'EyedownTool/file_decryption.py',
-        '08': 'EyedownTool/file_encryption.py',
-        '09': 'EyedownTool/full_confidentiality.py',
-        '10': 'EyedownTool/registery_cleaner.py',
-        '11': 'EyedownTool/system_security.py',
-        '12': 'EyedownTool/telemetry_remover.py',
-        '13': 'EyedownTool/website_unlocker.py',
-        '14': 'EyedownTool/win_defender_uninstall.py',
+        '01': 'Settings/Program/EyedownTool/anticheat_uninstaller.py',
+        '02': 'Settings/Program/EyedownTool/app_uninstaller_optimizer.py',
+        '03': 'Settings/Program/EyedownTool/cleaner.py',
+        '04': 'Settings/Program/EyedownTool/data_collection.py',
+        '05': 'Settings/Program/EyedownTool/discord_inject_remover.py',
+        '06': 'Settings/Program/EyedownTool/disk_cleaner.py',
+        '07': 'Settings/Program/EyedownTool/file_decryption.py',
+        '08': 'Settings/Program/EyedownTool/file_encryption.py',
+        '09': 'Settings/Program/EyedownTool/full_confidentiality.py',
+        '10': 'Settings/Program/EyedownTool/registery_cleaner.py',
+        '11': 'Settings/Program/EyedownTool/system_security.py',
+        '12': 'Settings/Program/EyedownTool/telemetry_remover.py',
+        '13': 'Settings/Program/EyedownTool/website_unlocker.py',
+        '14': 'Settings/Program/EyedownTool/win_defender_uninstall.py',
     }
 
     if option in scripts:
