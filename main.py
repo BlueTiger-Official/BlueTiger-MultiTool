@@ -56,6 +56,12 @@ menu2 = fade.water(center_text(f"""
 │  53: {format_option('53')}                                            │
 │  54: {format_option('54')}                                            │
 │  55: {format_option('55')}                                            │
+│  61: {format_option('61')}                                            │
+│  62: {format_option('62')}                                            │
+│  63: {format_option('63')}                                            │
+│  65: {format_option('65')}                                            │
+│  67: {format_option('67')}                                            │
+│  68: {format_option('68')}                                            │
 ├───────────────────────────────────────────────────────────────────────┤
 │  [N] Next Menu     [B] Previous Menu           [P] Paid Tools         │
 ╰───────────────────────────────────────────────────────────────────────╯
@@ -111,6 +117,9 @@ menu4 = fade.water(center_text(f"""
 │  51: {format_option('51')}                                            │
 │  59: {format_option('59')}                                            │
 │  60: {format_option('60')}                                            │
+│  64: {format_option('64')}                                            │
+│  66: {format_option('66')}                                            │
+│  69: {format_option('69')}                                            │
 ├───────────────────────────────────────────────────────────────────────┤
 │  [N] Next Menu       [B] Previous Menu            [P] Paid Tools      │
 ╰───────────────────────────────────────────────────────────────────────╯
