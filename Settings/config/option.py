@@ -72,7 +72,8 @@ options = {
     '66': {"name": "Ip Menu", "script": "ip_menu.py"},
     '67': {"name": "Server Lookup", "script": "server_lookup.py"},
     '68': {"name": "Token Login", "script": "token_login.py"},
-    '69': {"name": "Winrar Cracker", "script": "winrar_cracker.py"}
+    '69': {"name": "Winrar Cracker", "script": "winrar_cracker.py"},
+    '70': {"name": "Menu EyeDown", "script": "menu_eyedown.py"}
 }
 
 
