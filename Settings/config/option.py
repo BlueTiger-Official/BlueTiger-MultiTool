@@ -14,7 +14,7 @@ options = {
     '09': {"name": "Username-Tracker", "script": "username_tracker.py"},
     '10': {"name": "Email-Tracker", "script": "email_tracker.py"},
     '11': {"name": "Email-Lookup", "script": "email_lookup.py"},
-    '12': {"name": "Phone-Number-Lookup", "script": "phone_number_lookup.py"},
+    '12': {"name": "Phone-Number-Info", "script": "number_info.py"},
     '13': {"name": "Ip-Lookup", "script": "ip_lookup.py"},
     '14': {"name": "Search-In-DataBase", "script": "search_in_database.py"},
     '15': {"name": "Dark-Web-Links", "script": "dark_web_links.py"},
@@ -62,8 +62,17 @@ options = {
     '57': {"name": "Instagram", "script": "instagram.py"},
     '58': {"name": "SnapChat", "script": "snapchat.py"},
     '59': {"name": "Spoofer", "script": "spoofer.py"},
-    '60': {"name": "Spoofer", "script": "spoof_tkinter.py"}
-    
+    '60': {"name": "Spoofer", "script": "spoof_tkinter.py"},
+    # Ajout du 23/10/2024 22h
+    '61': {"name": "Account Nuker", "script": "acc_nuker.py"},
+    '62': {"name": "Anti Grabber", "script": "anti_grab.py"},
+    '63': {"name": "Clear DM", "script": "clear_dm.py"},
+    '64': {"name": "Email checker", "script": "email_checker.py"},
+    '65': {"name": "HypeSquad Changer", "script": "hypesquad_changer.py"},
+    '66': {"name": "Ip Menu", "script": "ip_menu.py"},
+    '67': {"name": "Server Lookup", "script": "server_lookup.py"},
+    '68': {"name": "Token Login", "script": "token_login.py"},
+    '69': {"name": "Winrar Cracker", "script": "winrar_cracker.py"}
 }
 
 
